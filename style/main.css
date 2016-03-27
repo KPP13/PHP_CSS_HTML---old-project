@@ -1,0 +1,164 @@
+body {
+	font-family: tahoma, helvetica, arial, sans-serif;
+	font-size: 14px;
+	background-color: #ffffcc;
+}
+
+#tytul {
+	font-size: 35px;
+	text-align: center;
+	color: #000080;
+}
+
+#tab1 {
+	border-collapse: separate;
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px #000000 solid;
+}
+
+#tab1 thead th  {
+	background-color: #33ccff;
+	border: 1px #000000 solid;
+}
+
+#tab1 tfoot th {
+	background-color: #33ccff;
+	border: 1px #000000 solid;
+}
+
+#tab1 .naglowek_1 {
+	text-align: center;
+	font-weight: bold;
+	background-color: #00ccff;
+	
+}
+
+#tab1 .val1 {
+	border: 1px #ff0000 dashed;	
+	text-align: center;
+	font-weight: bold;
+	width: 100px;
+}
+
+#tab1 .unit1 {
+	text-align: center;
+	width: 25px;
+}
+
+#tab1 .nieparzysty_tab1 {
+	background-color: #ccff99;
+}
+
+#tab1 .parzysty_tab1  {
+	background-color: #ccffff;
+}
+
+
+
+
+
+#tab2 {
+	border-collapse: separate;
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px #000000 solid;
+}
+
+#tab2 thead th  {
+	background-color: #33ccff;
+	border: 1px #000000 solid;
+}
+
+#tab2 tfoot th {
+	background-color: #33ccff;
+	border: 1px #000000 solid;
+}
+
+#tab2 .naglowek_2 {
+	text-align: center;
+	font-weight: bold;
+	background-color: #00ccff;
+	
+}
+
+#tab2 .val2 {
+	border: 1px #ff0000 dashed;	
+	text-align: center;
+	font-weight: bold;
+	width: 100px;
+}
+
+#tab2 .unit2 {
+	text-align: center;
+	width: 25px;
+}
+
+#tab2 .nieparzysty_tab2 {
+	background-color: #ccff99;
+}
+
+#tab2 .parzysty_tab2  {
+	background-color: #ccffff;
+}
+
+
+
+
+
+#tab3 {
+	border-collapse: separate;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px #000000 solid;
+}
+
+#tab3 thead th  {
+	background-color: #33ccff;
+	border: 1px #000000 solid;
+}
+
+#tab3 tfoot th {
+	background-color: #33ccff;
+	border: 1px #000000 solid;
+}
+
+#tab3 .tab3_bud {
+	background-color: #33ccff;
+	border: 1px #000000 solid;
+	font-weight: bold;
+	text-align: center;
+}
+
+#tab3 .naglowek_3 {
+	text-align: center;
+	font-weight: bold;
+	background-color: #00ccff;
+	
+}
+
+#tab3 .val3 {
+	border: 1px #ff0000 dashed;	
+	text-align: center;
+	font-weight: bold;
+	width: 100px;
+}
+
+#tab3 .unit3 {
+	text-align: center;
+	width: 25px;
+}
+
+#tab3 .nieparzysty_tab3 {
+	background-color: #ccff99;
+}
+
+#tab3 .parzysty_tab3  {
+	background-color: #ccffff;
+}
+
+#bud_img {
+	margin: 0 auto;
+}
